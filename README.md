@@ -1,2 +1,2 @@
-# boilerplate
-Basic HTML and CSS setup for simple web design
+# UX 815 Lab 3
+3rd Lab for UX 815
