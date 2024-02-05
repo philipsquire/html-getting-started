@@ -1,11 +1,36 @@
 /* Add screen styles below */
 body{
-    background: #37323E;
+    background: #454955;
+    margin-top: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-div{
-    background: #D9D9D9;
+.card{
+    background: #F3EFF5;
+    color: #0D0A0B;
     margin: 0 auto;
     width: 500px;
-    
+    height: 300px;
+    border-radius: 20px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 3);
+}
+
+.card div{
+  padding: 20px;
+}
+
+h1{
+  background: #72B01D;
+  margin: 0;
+  padding: 20px;
+  border-radius: 20px 20px 0 0;
+}
+
+img{
+  float: left;
+  margin-right: 20px;
+  width: 180px;
+}
+ul{
+  list-style: none;
 }
